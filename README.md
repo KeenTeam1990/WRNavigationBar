@@ -11,7 +11,7 @@
 <a href="http://weibo.com/wangrui460"><img src="http://i67.tinypic.com/wbulbr.jpg"></a>
 </p>
 
-[For Swift：https://github.com/wangrui460/WRNavigationBar_swift](https://github.com/wangrui460/WRNavigationBar_swift)
+[For Swift：https://github.com/KeenTeam1990/WRNavigationBar](https://github.com/KeenTeam1990/WRNavigationBar)
 
 
 ------------------------------------------------------------
